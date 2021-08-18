@@ -1,3 +1,6 @@
 <h1>Daily Java</h1>
 
-Learning any Programming Langage is great, but learning Java is Amazing.
+Learning any Programming Langage is fun, but learning Java is Amazing.
+
+<h2>What is Java ?</h2>
+<p> Java is a general purpose programming language and platform. </p>
