@@ -3,4 +3,4 @@
 Learning any Programming Langage is fun, but learning Java is Amazing.
 
 <h2>What is Java ?</h2>
-<p> Java is a general purpose programming language and platform. </p>
+<p> Java is a general purpose programming language and platform. It is one of the proramming langage that follows the Object Oriented Programming Paradigm. </p>
